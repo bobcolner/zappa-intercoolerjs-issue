@@ -1,6 +1,0 @@
-{
-    "dev": {
-        "app_function": "bug_server.app", 
-        "s3_bucket": "zappa-intercooler-issue"
-    }
-}
